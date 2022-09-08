@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-SNAKE!!!!!
+# SNAKE!!!!!
 ![](https://raw.githubusercontent.com/presentzeng/gihubSNK/d9e7d7253c9a23bb6f6999048101df94428bbb59/github-contribution-grid-snake.svg)
-<!--
-**presentzeng/presentzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning S6.081
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on [Tek System](https://www.teksystems.com/)
+- 🌱 I’m currently learning [6.S081](https://pdos.csail.mit.edu/6.S081/2021/index.html)
+- 👯 I’m looking to collaborate on ANYTHING THAT INTERESTING
+- 🤔 I’m looking for help with ANYTHING THAT MAKES MONEY !!!
 - 📫 How to reach me: presentzeng@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 HOME PAGE: [presentzeng](https://presentzeng.github.io/)
+- ⚡ Fun fact: there is no fun fact.
+
 
 
 
