@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Snake!!!!!
+SNAKE!!!!!
+![](https://raw.githubusercontent.com/presentzeng/gihubSNK/d9e7d7253c9a23bb6f6999048101df94428bbb59/github-contribution-grid-snake.svg)
 <!--
 **presentzeng/presentzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://raw.githubusercontent.com/presentzeng/gihubSNK/d9e7d7253c9a23bb6f6999048101df94428bbb59/github-contribution-grid-snake.svg
+
